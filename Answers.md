@@ -13,7 +13,7 @@
   Prove there's a need! Show market size, growth potential, and target audience demographics. Demonstrate your understanding of the competitive landscape.
 
 #### Unique Selling Proposition (USP): 
-    What makes you different? Identify your USP - the core advantage that sets you apart from competitors. Articulate it clearly to show why your solution is the best choice.
+  What makes you different? Identify your USP - the core advantage that sets you apart from competitors. Articulate it clearly to show why your solution is the best choice.
 
 #### Technical Feasibility: 
     Assure them it can be built! Briefly explain the technology stack and development approach. Mention relevant expertise within the team to address technical concerns.
